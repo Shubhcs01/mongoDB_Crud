@@ -1,4 +1,4 @@
-# mongoDB_Crud
+# MongoDB CRUD
 Setup for CRUD operations and Authentication using MongoDB
 
 ## Features includes :
