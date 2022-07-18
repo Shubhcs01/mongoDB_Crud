@@ -77,8 +77,8 @@ async function deleteUser(req,res){
 }
 
 // Connect mongodB
-//get db_link from website dB and Add your password
-const db_link = 'mongodb+srv://admin:<your_password>@cluster0.utnhw.mongodb.net/?retryWrites=true&w=majority';
+//TODO -> get db_link from website dB and Add your password
+const db_link = '<momgodb uri>';
 mongoose.connect(db_link)
 .then((db)=>{
     // console.log(db);
