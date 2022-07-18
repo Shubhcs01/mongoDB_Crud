@@ -1,7 +1,7 @@
 # MongoDB CRUD
 Setup for CRUD operations and Authentication using MongoDB
 
-## Features includes :
+## Code includes :
 - MongDB Setup
 - Define Schema
 - Create User
